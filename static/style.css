@@ -1,0 +1,15 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#form {
+    padding: 5px;
+    font-size:large;
+    display: flex;
+    flex-direction: column;
+    border: 2px solid gray;
+}
+
+
+
